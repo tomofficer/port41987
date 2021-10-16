@@ -422,6 +422,12 @@ body {
   color: #c70039;
   transition: all 0.4s ease;
 }
+.secondary-color {
+  color: #c70039;
+  transition: all 0.4s ease;
+  /* opacity: 0.8; */
+  font-weight: 200;
+}
 #about {
   background-color: #101010;
   display: none;
@@ -1083,11 +1089,11 @@ button:hover .index {
 .contact-info {
   width: 40%;
   height: 500px;
-  background: url(../images/contact-back.jpg);
+  background: url(../images/contact-back1.jpg);
   background-position: center;
   background-size: cover;
   border-radius: 16px;
-  margin-bottom: 50px;
+  margin-bottom: 200px;
   margin: auto;
   position: relative;
   overflow: hidden;
@@ -1100,7 +1106,7 @@ button:hover .index {
   top: 0;
   left: 0;
   background: #101010;
-  opacity: 0.8;
+  opacity: 0.6;
   pointer-events: none;
 }
 .contact-form {
