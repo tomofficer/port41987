@@ -1088,6 +1088,7 @@ button:hover .index {
   background-size: cover;
   border-radius: 16px;
   margin-bottom: 50px;
+  margin: auto;
   position: relative;
   overflow: hidden;
 }
