@@ -517,6 +517,7 @@ body {
 .about-img {
   width: 550px;
   height: auto;
+  /* height: 1100px; */
   padding: 30px;
   padding-top: 10px;
   border-radius: 40px;
