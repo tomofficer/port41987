@@ -1,0 +1,20 @@
+{
+  "name": "themes",
+  "version": "1.0.0",
+  "description": "Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomofficer/port41987.git"
+  },
+  "author": "Tom Officer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomofficer/port41987/issues"
+  },
+  "homepage": "https://github.com/tomofficer/port41987#readme"
+}
