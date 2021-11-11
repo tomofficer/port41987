@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tomofficer/port41987/issues"
   },
-  "homepage": "https://github.com/tomofficer/port41987#readme"
+  "homepage": "https://github.com/tomofficer/port41987#readme",
+  "engines": {
+    "node": "14.17.1"
+  }
 }
